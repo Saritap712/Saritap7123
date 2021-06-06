@@ -1,5 +1,5 @@
 # Saritap7123
--:yenes: I am currently working on an investment project
+- :yenes: I am currently working on an investment project
 - :tenis: I am currently training tennis 
 - :casa_con_jardín: I am helping my parents at home
 - :sonido: I am learning to speak English
